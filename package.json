@@ -1,0 +1,27 @@
+{
+  "name": "audio-sync-with-text",
+  "version": "1.0.0",
+  "description": "Displays text in sync with audio being played. Works with vtt files.",
+  "main": "audiosync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-codepunker/audio-sync-with-text.git"
+  },
+  "keywords": [
+    "vtt",
+    "audio",
+    "sync"
+  ],
+  "author": "The CodePunker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-codepunker/audio-sync-with-text/issues"
+  },
+  "homepage": "https://github.com/the-codepunker/audio-sync-with-text#readme",
+  "dependencies": {
+    "vtt-json": "^1.0.1"
+  }
+}
